@@ -27,3 +27,5 @@ while chances > 0:
 
   time.sleep(1)
   chances -= 1
+else:
+  print(f'Jawabannya adalah {d.get("jawaban")}')
