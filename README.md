@@ -1,15 +1,31 @@
 # Mini Trivia Game (CLI)
 
-## Preview:
+Mini Trivia Game. Scrambled Word Stacking (Command Line Interface)
 
-### Lost =
+# Preview:
+
+**Lost =**
 
 <img src="./img/kalah.png" />
 
-### Win =
+**Win =**
 
 <img src="./img/menang.png" />
 
-### Wrong Guess =
+**Wrong Guess =**
 
 <img src="./img/salah.png" />
+
+# Depedencies
+
+1. Python 3
+2. Python Library: `requests`
+
+# Setup & Installation
+
+## Python
+
+```
+pip install mcpi
+python source/main.py
+```
